@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // 编译后的文件输出目录
+    "noImplicitAny": true,
+    "module": "ES6",
+    "target": "ES6",
+    "allowJs": true,
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

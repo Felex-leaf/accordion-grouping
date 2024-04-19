@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "手风琴分组",
+  "description": "点一个分组展开后，自动折叠其他分组",
+  "version": "1.0",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": ["activeTab", "tabs", "tabGroups"]
+}
