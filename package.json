@@ -1,7 +1,7 @@
 {
   "name": "accordion-grouping",
   "version": "1.0.0",
-  "description": "",
+  "description": "手风琴分组，分组展开后，自动折叠其他分组",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
